@@ -1,0 +1,29 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+ENV/
+pyenv/
+
+# Python (Arquivos compilados e cache)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Configurações de Ambiente (Variáveis secretas)
+.env
+*.env
+.flaskenv
+
+# IDEs (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
